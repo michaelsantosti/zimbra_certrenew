@@ -3,7 +3,7 @@
 ##################################
 ##                              ##
 #     Zimbra Certificate Renew   #
-#        Michael Santosti        #
+#      Michael Santosti 1.0      #
 ##                              ##
 ##################################
 

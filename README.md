@@ -3,18 +3,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: michaelsantosti](https://img.shields.io/twitter/follow/michaelsantosti.svg?style=social)](https://twitter.com/michaelsantosti)
 
-> Script para renovação de forma automática dos certificados Let's Encrypt no Zimbra 8 GA
-
-## Install
-
-```sh
-bash zimbra_certrenew.sh
-```
+> Let's Encrypt Certificate Renew and Deploy to Zimbra 8GA
 
 ## Usage
 
+Give Exec permission, run the script and n-joy 😀
+
 ```sh
-Execute o Script, ele irá efetuar todo o procedimento automaticamente.
+chmod +x santosti_zimbracert.sh
+bash santosti.zimbracert.sh
 ```
 
 ## Author
